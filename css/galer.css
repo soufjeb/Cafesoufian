@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://image.freepik.com/free-photo/texture-background_1404-99.jpg");
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+
+div.gallery {
+    margin: 35px;
+    border: 1px solid #ccc;
+    float: initial;
+    width: 600px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+
+h4{
+    text-align: center;
+}
+
+footer{ 
+    position: static;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: inheritrem;
+    background:rgba(49, 49, 49, 0.66);
+     }

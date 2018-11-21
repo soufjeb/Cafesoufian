@@ -1,6 +1,6 @@
 body{
     background-image:url("https://image.freepik.com/free-photo/texture-background_1404-99.jpg");
-    max-width:px ;
+  
 
 }
 img{
@@ -17,14 +17,14 @@ h1 {
     color: #183832;
     background:#e0d0c0;
     font-family: 'Handlee', cursive;
-    box-shadow: 15px 20px #1838328c;
     width:60% ;
-  
+    font-size: 20px;
 }
+
 p{
-    color:#0a4137;
-    background:burlywood;
-    padding: 10px;
+ color:#0a4137;
+ background:burlywood;
+ padding: 10px;
   box-shadow: 20px -19px black;
   font-family: 'Spicy Rice', cursive;
   width:60% ;
@@ -35,7 +35,7 @@ footer{
     bottom: 0;
     left: 0;
     padding: inheritrem;
-       background:rgba(49, 49, 49, 0.66);
+    background:rgba(49, 49, 49, 0.66);
      }
 h4{
     text-align: center;

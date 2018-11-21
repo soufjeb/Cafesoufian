@@ -2,26 +2,9 @@ body{
     background-image:url("https://image.freepik.com/free-photo/texture-background_1404-99.jpg");
     
 }
-h1{
-    font-family: 'Amatic SC', cursive;
-    
-    text-align: center;
-    border: solid 2px blanchedalmond ;
-    
-}
 
-h3{
-    font-family: 'Amatic SC', cursive;
- 
-}
-#prix{
-    font-family: 'Luckiest Guy', cursive;
-    text-align: center;
-    
-    height: 15px;
-    right:100%; 
-    
-}
+
+
 footer{ 
     position: static;
     right: 0;
